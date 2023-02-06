@@ -1,3 +1,3 @@
-# 인공지능반도체 플젝3
+# AIIC_PROJECT3
 
 High speed Mesh Architecture for Asynchronous Clicked-base Communication
